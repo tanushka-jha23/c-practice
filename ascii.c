@@ -1,4 +1,5 @@
 #include<stdio.h>
+//program on ASCII value of any character
 int main()
 {
     char a; // taking input
