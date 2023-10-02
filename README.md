@@ -1,2 +1,2 @@
 # Codes
-this repository consists of the silly c-language programs
+this repository consists of silly c-language programs
